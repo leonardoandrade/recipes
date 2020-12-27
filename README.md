@@ -2,4 +2,4 @@
 
 Some recipes are kept here.
 
-I mean food recipes.
+By recipes I mean food recipes. Mostly vegetarian 🥦 🧀 
