@@ -45,6 +45,9 @@ TODO - this part never came good so far. I use mostly on pre-made puff pastry.
 7. Eat. Warm or cold is fine. 
 
 
+![Cooled down pastel de nata](https://user-images.githubusercontent.com/2169792/116758009-8f47a280-aa0f-11eb-8353-b1890d52a7eb.png)
+
+
 TODO: add pictures 
 
 # References 
