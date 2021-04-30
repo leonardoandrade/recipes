@@ -26,7 +26,7 @@ Note about sugar: usually recipes recommend around twice as much sugrar as the 1
 
 ## For the pastry
 
-TODO - this part never came good so far. I use mostly on pre-made puff pastry. 
+This part never came good so far. I use mostly on pre-made puff pastry. Be careful not to buy Shortcrust pastry or Filo pastry.
 
 # Process
 
@@ -47,8 +47,7 @@ TODO - this part never came good so far. I use mostly on pre-made puff pastry.
 
 ![Cooled down pastel de nata](https://user-images.githubusercontent.com/2169792/116758009-8f47a280-aa0f-11eb-8353-b1890d52a7eb.png)
 
-
-TODO: add pictures 
+Above: a finished cut pastel. More liquid than this is also ok.  
 
 # References 
 
