@@ -5,6 +5,9 @@ In the last decades it became popular globaly, being found in cafes from cities 
 
 Health warning: some foods have too much sugar, others have too much fat, sometimes too much cholesterol. Pastel de nata has *all of the above* Some frugality is advised. 
 
+![The final result](./img/pastel-de-nata-plate.png)
+
+
 
 # Ingredients
 
@@ -42,12 +45,19 @@ This part never came good so far. I use mostly on pre-made puff pastry. Be caref
 
 6. Leave in the oven at 250 C, for 15 minutes
 
-7. Eat. Warm or cold is fine. 
+7. Eat. Warm or cold is fine. They last a fews days in the fridge.
 
 
-![Cooled down pastel de nata](https://user-images.githubusercontent.com/2169792/116758009-8f47a280-aa0f-11eb-8353-b1890d52a7eb.png)
+![Cooled down pastel de nata](./img/pastel-de-nata-cut.png)
 
 Above: a finished cut pastel. More liquid than this is also ok.  
+
+# What shoud not be done
+
+Some variants are possible, however it can be hardly be called a pastel de nata if:
+
+* Vanilla is added, it damages the lemon skin and cinamon taste
+* Orancg. Same reason as above.
 
 # References 
 
