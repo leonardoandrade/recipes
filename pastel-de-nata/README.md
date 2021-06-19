@@ -5,7 +5,7 @@ In the last decades it became popular globaly, being found in cafes from cities 
 
 Health warning: some foods have too much sugar, others have too much fat, sometimes too much cholesterol. Pastel de nata has *all of the above* Some frugality is advised. 
 
-![The final result](./img/pastel-de-nata-plate.png)
+![The final result](./img/pastel-de-nata-plate.jpg)
 
 
 
